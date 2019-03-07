@@ -441,7 +441,37 @@ section {
     font-family: "Raleway", sans-serif;
     margin-top: 8px;
 }
-
+/* ============================================================
+                        Services Section
+===============================================================*/
+ .horizontal-heading {
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+}
+.horizontal-heading h5 {
+    font-weight: 300;
+    color: #f4c613;
+    font-size: 24px;
+}
+.horizontal-heading h2 {
+    font-weight: 500;
+    color: black;
+    font-size: 38px;
+}
+.service {
+    font-family: "Raleway", sans-serif;
+}
+.service h5 {
+    color: gray;
+}
+.service h4 {
+    font-size: 24px;
+    font-weight: 600;
+}
+.service p {
+    font-size: 14px;
+}
 
 
 
